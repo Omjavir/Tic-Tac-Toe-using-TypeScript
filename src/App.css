@@ -1,0 +1,16 @@
+.board {
+  padding: 20px;
+}
+
+.square {
+  border: 2px solid;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+}
